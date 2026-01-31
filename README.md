@@ -136,22 +136,20 @@ This project demonstrates modern documentation architecture commonly used in rea
 └── README.md
 ---
 
-## 🧪 Environment Variables
 
-All required environment variables are documented in **`.env.example`**.
+
+
+## 🌱 Environment Variables
+
+All required environment variables are documented in the `.env.example` file located at the project root.
 
 Example:
 
 ```env
-# Application environment
 NODE_ENV=development
-
-# Next.js public variables
 NEXT_PUBLIC_SITE_NAME=Docs Portal
+
 ```
-
-
----
 
 ## 🐳 Docker Setup (Required)
 
